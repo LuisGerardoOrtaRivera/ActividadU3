@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheWichol45\\source\\repos\\FormU3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C909A3CA-E3ED-40A4-9132-F121311B61AE}|FormU3\\FormU3.csproj|c:\\users\\thewichol45\\source\\repos\\formu3\\formu3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C909A3CA-E3ED-40A4-9132-F121311B61AE}|FormU3\\FormU3.csproj|solutionrelative:formu3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909A3CA-E3ED-40A4-9132-F121311B61AE}|FormU3\\FormU3.csproj|c:\\users\\thewichol45\\source\\repos\\formu3\\formu3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909A3CA-E3ED-40A4-9132-F121311B61AE}|FormU3\\FormU3.csproj|solutionrelative:formu3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909A3CA-E3ED-40A4-9132-F121311B61AE}|FormU3\\FormU3.csproj|c:\\users\\thewichol45\\source\\repos\\formu3\\formu3\\conversordivisas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909A3CA-E3ED-40A4-9132-F121311B61AE}|FormU3\\FormU3.csproj|solutionrelative:formu3\\conversordivisas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversorDivisas.cs",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\source\\repos\\FormU3\\FormU3\\ConversorDivisas.cs",
+              "RelativeDocumentMoniker": "FormU3\\ConversorDivisas.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\source\\repos\\FormU3\\FormU3\\ConversorDivisas.cs",
+              "RelativeToolTip": "FormU3\\ConversorDivisas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T03:55:31.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\source\\repos\\FormU3\\FormU3\\Form1.cs",
+              "RelativeDocumentMoniker": "FormU3\\Form1.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\source\\repos\\FormU3\\FormU3\\Form1.cs",
+              "RelativeToolTip": "FormU3\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:25:15.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\TheWichol45\\source\\repos\\FormU3\\FormU3\\Form1.cs",
+              "RelativeDocumentMoniker": "FormU3\\Form1.cs",
+              "ToolTip": "C:\\Users\\TheWichol45\\source\\repos\\FormU3\\FormU3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormU3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:24:56.677Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

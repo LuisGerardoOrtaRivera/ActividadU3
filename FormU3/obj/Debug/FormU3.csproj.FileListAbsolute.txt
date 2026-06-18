@@ -1,0 +1,11 @@
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\bin\Debug\FormU3.exe.config
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\bin\Debug\FormU3.exe
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\bin\Debug\FormU3.pdb
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\obj\Debug\FormU3.csproj.AssemblyReference.cache
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\obj\Debug\FormU3.Form1.resources
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\obj\Debug\FormU3.Properties.Resources.resources
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\obj\Debug\FormU3.csproj.GenerateResource.cache
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\obj\Debug\FormU3.csproj.CoreCompileInputs.cache
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\obj\Debug\FormU3.exe
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\obj\Debug\FormU3.pdb
+C:\Users\TheWichol45\source\repos\FormU3\FormU3\obj\Debug\FormU3.exe.config
